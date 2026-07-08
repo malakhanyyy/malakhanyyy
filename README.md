@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Front-End & AI Engineer | Innovatera Lead | Competitive Programmer
+  Front-End & AI Engineer |  Competitive Programmer
 </h3>
 
 <div align="center">
@@ -17,17 +17,17 @@
 
 <br>
 
-### 👩🏻‍💻 About Me
+### About Me
 > Engineer focused on merging **intelligent AI systems** with **robust Front-End architectures** to create accessible, sustainable, and high-quality solutions.
 
-- 🎓 **Background:** Computer Engineering with a focus on Full-Stack, Embedded Systems, and Software Quality Assurance.
-- 💡 **Building:** Impactful projects combining AI, IoT (Arduino/ESP32), and modern web frameworks.
-- 🧩 **Problem Solving:** Active in algorithmic problem solving and competitive programming (ICPC & Codeforces).
-- 🎯 **Mission:** Engineering technology that solves real-world problems—from women's rights education to secure healthcare data.
+- **Background:** Computer Engineering with a focus on Full-Stack, Embedded Systems, and Software Quality Assurance.
+- **Building:** Impactful projects combining AI, IoT (Arduino/ESP32), and modern web frameworks.
+- **Problem Solving:** Active in algorithmic problem solving and competitive programming (ICPC & Codeforces).
+- **Mission:** Engineering technology that solves real-world problems—from women's rights education to secure healthcare data.
 
 <br>
 
-### 🛠️ Tech Arsenal
+### Tech Tools
 
 <div align="center">
   <h4>Core & AI</h4>
@@ -56,7 +56,7 @@
 
 <br>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table align="center">
   <tr>
@@ -90,7 +90,7 @@
 
 <br>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&hide_border=true&bg_color=FFE4E1&title_color=1a1a1a&icon_color=1a1a1a&text_color=1a1a1a&cache_seconds=86400" alt="GitHub Stats" width="48%" />
