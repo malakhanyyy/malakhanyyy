@@ -63,26 +63,12 @@
     <td width="33%" align="center">
       <h3>HerRights</h3>
       <p>An AI chatbot making legal advice and rights education instantly accessible for women.</p>
-      <code>AI</code> <code>Education</code>
+      <img src="https://img.shields.io/badge/AI-E16278?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Education-E16278?style=for-the-badge&logoColor=white" />
     </td>
     <td width="33%" align="center">
       <h3>Life Link</h3>
       <p>Secure, unified healthcare record vault for Cardiology and Neurology patients.</p>
-      <code>Front-End</code> <code>Security</code>
+      <img src="https://img.shields.io/badge/FrontEnd-E16278?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Security-E16278?style=for-the-badge&logoColor=white" />
     </td>
     <td width="33%" align="center">
-      <h3>SafeHaven</h3>
-      <p>Secure portal with direct login, an integrated AI chatbot, and administrative tools.</p>
-      <code>Full-Stack</code> <code>UI/UX</code>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=malakhanyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+      <h3>SafeHaven
