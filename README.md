@@ -23,11 +23,11 @@
 - **Background:** Computer Engineering with a focus on Full-Stack, Embedded Systems, and Software Quality Assurance.
 - **Building:** Impactful projects combining AI, IoT (Arduino/ESP32), and modern web frameworks.
 - **Problem Solving:** Active in algorithmic problem solving and competitive programming (ICPC & Codeforces).
-- **Mission:** Engineering technology that solves real-world problems—from environmental sustainability to healthcare.
+- **Mission:** Engineering technology that solves real-world problems—from women's rights education to secure healthcare data.
 
 <br>
 
-### Tech Arsenal
+### Tech Tools
 
 <div align="center">
   <h4>Core & AI</h4>
@@ -37,7 +37,9 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  
   <h4>Front-End & Databases</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -50,8 +52,7 @@
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+
 </div>
 
 <br>
@@ -60,15 +61,39 @@
 
 <table align="center">
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" valign="top">
       <h3>HerRights</h3>
-      <p>An AI chatbot making legal advice and rights education instantly accessible for women.</p>
-      <img src="https://img.shields.io/badge/AI-E16278?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Education-E16278?style=for-the-badge&logoColor=white" />
+      <b>AI Chatbot</b><br><br>
+      <p>AI legal advisor and rights educator for women.</p>
+      <br>
+      <img src="https://img.shields.io/badge/education-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
+      <img src="https://img.shields.io/badge/law-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
+      <img src="https://img.shields.io/badge/AI-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
     </td>
-    <td width="33%" align="center">
+    <td width="33%" valign="top">
       <h3>Life Link</h3>
-      <p>Secure, unified healthcare record vault for Cardiology and Neurology patients.</p>
-      <img src="https://img.shields.io/badge/FrontEnd-E16278?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Security-E16278?style=for-the-badge&logoColor=white" />
+      <b>Secure Patient Portal</b><br><br>
+      <p>Secure patient record vault for Cardiology and Neurology patients.</p>
+      <br>
+      <img src="https://img.shields.io/badge/health-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
+      <img src="https://img.shields.io/badge/security-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
     </td>
-    <td width="33%" align="center">
-      <h3>SafeHaven
+    <td width="33%" valign="top">
+      <h3>SafeHaven</h3>
+      <b>Secure Portal</b><br><br>
+      <p>Integrated AI chatbot with secure portal access.</p>
+      <br>
+      <img src="https://img.shields.io/badge/AI_chatbot-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
+      <img src="https://img.shields.io/badge/full_stack-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FFB6C1&text_color=ffffff&ring_color=FFB6C1" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=malakhanyyy&hide_border=true&background=0D1117&ring=FFB6C1&fire=FFB6C1&currStreakNum=FFB6C1&currStreakLabel=FFB6C1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
+</div>
