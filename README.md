@@ -17,17 +17,17 @@
 
 <br>
 
-### About Me
+### 👩🏻‍💻 About Me
 > Engineer focused on merging **intelligent AI systems** with **robust Front-End architectures** to create accessible, sustainable, and high-quality solutions.
 
-- **Background:** Computer Engineering with a focus on Full-Stack, Embedded Systems, and Software Quality Assurance.
-- **Building:** Impactful projects combining AI, IoT (Arduino/ESP32), and modern web frameworks.
-- **Problem Solving:** Active in algorithmic problem solving and competitive programming (ICPC & Codeforces).
-- **Mission:** Engineering technology that solves real-world problems—from women's rights education to secure healthcare data.
+- 🎓 **Background:** Computer Engineering with a focus on Full-Stack, Embedded Systems, and Software Quality Assurance.
+- 💡 **Building:** Impactful projects combining AI, IoT (Arduino/ESP32), and modern web frameworks.
+- 🧩 **Problem Solving:** Active in algorithmic problem solving and competitive programming (ICPC & Codeforces).
+- 🎯 **Mission:** Engineering technology that solves real-world problems—from women's rights education to secure healthcare data.
 
 <br>
 
-### Tech Tools
+### 🛠️ Tech Arsenal
 
 <div align="center">
   <h4>Core & AI</h4>
@@ -37,9 +37,7 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-  
+
   <h4>Front-End & Databases</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -52,12 +50,13 @@
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </div>
 
 <br>
 
-### Featured Projects
+### 🚀 Featured Projects
 
 <table align="center">
   <tr>
@@ -91,9 +90,9 @@
 
 <br>
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&hide_border=true&bg_color=FFE4E1&title_color=1a1a1a&icon_color=1a1a1a&text_color=1a1a1a" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakhanyyy&layout=compact&hide_border=true&bg_color=FFE4E1&title_color=1a1a1a&text_color=1a1a1a" alt="Top Languages" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakhanyyy&hide_border=true&background=FFE4E1&ring=1a1a1a&fire=1a1a1a&currStreakNum=1a1a1a&currStreakLabel=1a1a1a&sideNums=1a1a1a&sideLabels=1a1a1a&dates=1a1a1a" alt="GitHub Streak" width="48%" />
 </div>
