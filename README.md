@@ -24,7 +24,7 @@ I am an Engineer focused on merging **intelligent AI systems** with **robust Fro
 
 ---
 
-### Tech Arsenal
+### Tech
 
 **Core & AI**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
