@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20Malak's%20Workspace&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Welcome%20to%20Malak's%20Workspace&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
 </div>
 
 <h3 align="center">
@@ -17,17 +17,17 @@
 
 <br>
 
-### 👩🏻‍💻 About Me
+### About Me
 > Engineer focused on merging **intelligent AI systems** with **robust Front-End architectures** to create accessible, sustainable, and high-quality solutions.
 
-- 🎓 **Background:** Computer Engineering with a focus on Full-Stack, Embedded Systems, and Software Quality Assurance.
-- 💡 **Building:** Impactful projects combining AI, IoT (Arduino/ESP32), and modern web frameworks.
-- 🧩 **Problem Solving:** Active in algorithmic problem solving and competitive programming (ICPC & Codeforces).
-- 🎯 **Mission:** Engineering technology that solves real-world problems—from environmental sustainability to healthcare.
+- **Background:** Computer Engineering with a focus on Full-Stack, Embedded Systems, and Software Quality Assurance.
+- **Building:** Impactful projects combining AI, IoT (Arduino/ESP32), and modern web frameworks.
+- **Problem Solving:** Active in algorithmic problem solving and competitive programming (ICPC & Codeforces).
+- **Mission:** Engineering technology that solves real-world problems—from environmental sustainability to healthcare.
 
 <br>
 
-### 🛠️ Tech Arsenal
+### Tech Arsenal
 
 <div align="center">
   <h4>Core & AI</h4>
@@ -56,22 +56,22 @@
 
 <br>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table align="center">
   <tr>
     <td width="33%" align="center">
-      <h3>🌍 aéroOasis</h3>
-      <p>AI-powered atmospheric water generator for dry climates utilizing solar & Peltier tech.</p>
-      <code>AI</code> <code>Hardware</code>
+      <h3>HerRights</h3>
+      <p>An AI chatbot making legal advice and rights education instantly accessible for women.</p>
+      <code>AI</code> <code>Education</code>
     </td>
     <td width="33%" align="center">
-      <h3>🏥 Life Link</h3>
+      <h3>Life Link</h3>
       <p>Secure, unified healthcare record vault for Cardiology and Neurology patients.</p>
       <code>Front-End</code> <code>Security</code>
     </td>
     <td width="33%" align="center">
-      <h3>🛡️ SafeHaven</h3>
+      <h3>SafeHaven</h3>
       <p>Secure portal with direct login, an integrated AI chatbot, and administrative tools.</p>
       <code>Full-Stack</code> <code>UI/UX</code>
     </td>
@@ -80,9 +80,9 @@
 
 <br>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakhanyyy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=malakhanyyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
