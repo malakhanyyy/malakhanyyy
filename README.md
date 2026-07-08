@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Welcome%20to%20Malak's%20Workspace&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Welcome%20to%20Malak's%20Workspace&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=1a1a1a" width="100%" alt="Header Banner" />
 </div>
 
 <h3 align="center">
@@ -66,7 +66,7 @@
       <b>AI Chatbot</b><br><br>
       <p>AI legal advisor and rights educator for women.</p>
       <br>
-      <img src="https://img.shields.io/badge/education-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
+      <img src="https://img.shields.io/badge/education-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1&logoColor=black" />
       <img src="https://img.shields.io/badge/law-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
       <img src="https://img.shields.io/badge/AI-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
     </td>
@@ -81,7 +81,7 @@
     <td width="33%" valign="top">
       <h3>SafeHaven</h3>
       <b>Secure Portal</b><br><br>
-      <p>Integrated AI chatbot with secure portal access.</p>
+      <p>Integrated AI chatbot with secure, direct login portal access.</p>
       <br>
       <img src="https://img.shields.io/badge/AI_chatbot-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
       <img src="https://img.shields.io/badge/full_stack-FFB6C1?style=flat&labelColor=FFB6C1&color=FFB6C1" />
@@ -94,6 +94,6 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FFB6C1&text_color=ffffff&ring_color=FFB6C1" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=malakhanyyy&hide_border=true&background=0D1117&ring=FFB6C1&fire=FFB6C1&currStreakNum=FFB6C1&currStreakLabel=FFB6C1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&hide_border=true&bg_color=FFE4E1&title_color=1a1a1a&icon_color=1a1a1a&text_color=1a1a1a" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malakhanyyy&hide_border=true&background=FFE4E1&ring=1a1a1a&fire=1a1a1a&currStreakNum=1a1a1a&currStreakLabel=1a1a1a&sideNums=1a1a1a&sideLabels=1a1a1a&dates=1a1a1a" alt="GitHub Streak" width="48%" />
 </div>
