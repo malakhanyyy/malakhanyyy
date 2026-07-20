@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:1a1a1a&height=260&section=header&text=Malak%20Hany&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=AI%20%7C%20Full-Stack%20%7C%20Embedded%20Systems&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:1a1a1a&height=260&section=header&text=Malak%20Hany&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=AI%20[...]
 
 <br>
 
-### 🚀 Welcome to My GitHub
+### Welcome to My GitHub
 
 <a href="https://linkedin.com/in/malakhany">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,25 +16,23 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=malakhanyyy&style=flat-square&color=FFB6C1" />
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Engineer merging **AI systems** with **front-end architecture**. Computer Engineering student at [Université Française d'Égypte (UFE)](https://www.ufe.edu.eg), with hands-on experience in:
 
-- 🤖 **AI & Machine Learning** — Building intelligent solutions
-- 🌐 **Full-Stack Development** — From backend to responsive UIs
-- 🔧 **Embedded Systems** — Arduino & ESP32 projects
-- 🏆 **Competitive Programming** — ICPC & Codeforces
-- 🎯 **Mission** — Creating tech that solves real-world problems
+- AI & Machine Learning — Building intelligent solutions
+- Full-Stack Development — From backend to responsive UIs
+- Embedded Systems — Arduino & ESP32 projects
+- Competitive Programming — ICPC & Codeforces
+- Mission — Creating tech that solves real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Core**
 
@@ -73,12 +71,12 @@ Engineer merging **AI systems** with **front-end architecture**. Computer Engine
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <h3>💗 HerRights</h3>
+      <h3>HerRights</h3>
       <p><b>AI Legal Advisor</b></p>
       <p>Intelligent chatbot providing legal guidance and rights education for women.</p>
       <p>
@@ -88,7 +86,7 @@ Engineer merging **AI systems** with **front-end architecture**. Computer Engine
       </p>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🩺 Life Link</h3>
+      <h3>Life Link</h3>
       <p><b>Secure Patient Portal</b></p>
       <p>HIPAA-compliant patient record vault for Cardiology & Neurology patients.</p>
       <p>
@@ -98,7 +96,7 @@ Engineer merging **AI systems** with **front-end architecture**. Computer Engine
       </p>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🛡️ SafeHaven</h3>
+      <h3>SafeHaven</h3>
       <p><b>AI Portal Platform</b></p>
       <p>Integrated AI chatbot with secure login portal and real-time support access.</p>
       <p>
@@ -109,26 +107,6 @@ Engineer merging **AI systems** with **front-end architecture**. Computer Engine
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=malakhanyyy&show_icons=true&hide_border=true&theme=default&title_color=1a1a1a&icon_color=FFB6C1&text_color=333333" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakhanyyy&layout=compact&hide_border=true&theme=default&title_color=1a1a1a&text_color=333333" height="180" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malakhanyyy&hide_border=true&background=FFFFFF&ring=FFB6C1&fire=FFB6C1&currStreakNum=1a1a1a&currStreakLabel=1a1a1a&sideNums=1a1a1a&sideLabels=1a1a1a&dates=1a1a1a" />
-
-</div>
 
 ---
 
