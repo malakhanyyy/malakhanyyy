@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:1a1a1a&height=260&section=header&text=Malak%20Hany&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=AI%20Systems%20%26%20Front-End%20Architect" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:1a1a1a&height=260&section=header&text=Malak%20Hany&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=AI%20Engineer%20%7C%20ML%20%7C%20Frontend" />
 
 <br>
 
